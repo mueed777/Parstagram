@@ -34,5 +34,10 @@ GIF Breakdown
 
 <img src='https://im5.ezgif.com/tmp/ezgif-5-30b691cb0d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+- User can log in
+
+<img src='https://im5.ezgif.com/tmp/ezgif-5-b51d7dbcb6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 
