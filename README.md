@@ -23,4 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF Breakdown
+
+- user sees app icon in home screen and styled launch screen
+
+
+<img src='https://im5.ezgif.com/tmp/ezgif-5-500844b4cc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
