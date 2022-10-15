@@ -42,5 +42,9 @@ GIF Breakdown
 
 <img src='https://im5.ezgif.com/tmp/ezgif-5-7af53275b6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+- User can view the last 20 posts
+
+<img src='https://im5.ezgif.com/tmp/ezgif-5-0562c4ee20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
