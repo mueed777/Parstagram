@@ -26,7 +26,13 @@ Here's a walkthrough of implemented user stories:
 
 GIF Breakdown
 
-- user sees app icon in home screen and styled launch screen
-
+- User sees app icon in home screen and styled launch screen
 
 <img src='https://im5.ezgif.com/tmp/ezgif-5-500844b4cc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+- User can sign up to create a new account
+
+<img src='https://im5.ezgif.com/tmp/ezgif-5-30b691cb0d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
